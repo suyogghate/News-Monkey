@@ -142,3 +142,5 @@ export class News extends Component {
 }
 
 export default News;
+
+// https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
